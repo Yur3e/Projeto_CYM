@@ -1,5 +1,18 @@
-# Projeto_CYM
+# Projeto Biblioteca CYM - Sistema de Gerenciamento
 
-Projeto de Biblioteca CYM
+## Descrição
+Este projeto tem como objetivo criar um sistema simples de gerenciamento de uma biblioteca. A aplicação permite realizar cadastros de livros, usuários, empréstimos e devoluções, além de apresentar informações sobre os membros da equipe.
 
-Este projeto foi desenvolvido como parte da disciplina de Programação Orientada a Objetos (POO) do curso de Ciência de Dados na Universidade Estadual da Paraíba (UEPB). O nome CYM representa as iniciais dos membros do grupo: Caio, Yure, e Marcelly.
+## Funcionalidades
+- Cadastro de livros;
+- Cadastro de usuários;
+- Registro de empréstimos;
+- Registro de devoluções;
+- Listagens de dados;
+- Exibição dos atributos das classes;
+- Exibição dos membros da equipe.
+
+## Membros da Equipe
+- Caio
+- Yure
+- Marcelly
